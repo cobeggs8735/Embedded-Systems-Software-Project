@@ -2,7 +2,7 @@
 Final project design for Embedded Systems Software development class in the Engineering Technology and Industrial Distribution at Texas A&amp;M University
 
 ## Summary
-This file implements the control logic for a class project, turning the microcontroller into a user-interactive controller for a servo and ultrasonic sensor, with feedback shown on both an LCD and over a serial terminal. It is typical for a final embedded systems course project combining input, output, actuation, and sensor integration.
+This project implements the control logic for a class project, turning the microcontroller into a user-interactive controller for a servo and ultrasonic sensor, with feedback shown on both an LCD and over a serial terminal. It is typical for a final embedded systems course project combining input, output, actuation, and sensor integration.
 
 ### Description
 This file, main.c, is the main program for an embedded systems project running on an MSP432 microcontroller. Its core purpose is to provide a menu-driven interface (via UART/serial terminal and an LCD) for controlling a servo motor and interacting with sensors.
