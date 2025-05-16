@@ -1,5 +1,5 @@
 # Embedded-Systems-Software-Project
-Final project design for Embedded Systems Software development class (ESET 369) in the Engineering Technology and Industrial Distribution at Texas A&amp;M University
+Final project design for Embedded Systems Software development class (ESET 369) in the Engineering Technology and Industrial Distribution department at Texas A&amp;M University
 
 ## Summary
 This project implements the control logic for a class project, turning the microcontroller into a user-interactive controller for a servo and ultrasonic sensor, with feedback shown on both an LCD and over a serial terminal. It is typical for a final embedded systems course project combining input, output, actuation, and sensor integration.
